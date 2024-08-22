@@ -1,17 +1,6 @@
 *{
     margin: 0px;
 }
-
-.box{
-    width: 200px;
-    height: 100px;
-    padding: 20x;
-    border: 10px solid black;
-    margin: 20px;
-    background-color: #ccc;
-}
-
-.box
 #titulo {
     color: red;
     text-align: center;
@@ -39,4 +28,8 @@
     background-color: #ccc;
     padding-top: 10px;
     padding-bottom: 5px;
+}
+
+input {
+    display: block;
 }
