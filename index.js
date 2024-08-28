@@ -19,6 +19,13 @@ function submeter() {
 }
 
 function validaCPF(cpf) {
+    if(cpf =="") {
+        return false;
+    }
+
+    if(){
+        // verificar se o cpf contém letras
+    }
     // Retorna true se o cpf for valido, caso o contrario retorna false
     return true;
 }
